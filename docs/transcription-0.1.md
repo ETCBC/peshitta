@@ -82,7 +82,7 @@ Node type *chapter*
 
 Subdivision of a containing *book*.
 
-feature | values | in ATF | description
+feature | values | description
 ------- | ------ | ------
 **chapter** | `1` | number of the *chapter*
 
@@ -95,7 +95,7 @@ of a complete book.
 Some books come in several witnesses, marked as `A`, `B`. 
 We treat them as separate books, and augment their names and acronyms with `_A`, `_B`, etc.
 
-feature | values | in ATF | description
+feature | values | description
 ------- | ------ | ------
 **book** | `Gn` | acronym of the book name
 **book@en** | `Genesis` | English name of the book

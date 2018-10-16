@@ -32,11 +32,11 @@ allAcrosSeq = '''
     Jb
     Jos
     Jd
-    1Sm
-    2Sm
+    Sm1
+    Sm2
     Ps
-    1Rg
-    2Rg
+    Rg1
+    Rg2
     Pr
     Sap
     Ec
@@ -68,17 +68,17 @@ allAcrosSeq = '''
     Est
     Jdt
     Sir
-    1Chr
-    2Chr
+    Chr1
+    Chr2
     ApBar
-    4Esr
+    Esr4
     Ezr
     Neh
-    1Mc_A
-    1Mc_B
-    2Mc
-    3Mc
-    4Mc
+    Mc1_A
+    Mc1_B
+    Mc2
+    Mc3
+    Mc4
     Oda
     OrM_A
     OrM_B
@@ -88,7 +88,7 @@ allAcrosSeq = '''
     PsS
     Tb_A
     Tb_B
-    3Esr
+    Esr3
 '''.strip().split()
 
 allAcros = set(allAcrosSeq)
@@ -182,8 +182,14 @@ def doBooks():
       if not bookEntry.is_file():
         continue
       bookFile = bookEntry.name
-      print(bookFile)
-      thisBookInfo = {'bookName': bookFile}
+      bookMain = bookFile[0:-2] if bookFile[-2] == '_' else bookFile
+      bookAb = bookFile[-1] if bookFile[-2] == '_' else ''
+      bookAbRep = '' if bookAb == '' else f'_{bookAb.upper()}'
+      bookMain = f'{bookMain[1:]}_{bookMain[0]}' if bookMain[0].isdigit() else bookMain
+      bookName = f'{bookMain}{bookAbRep}'
+      bookExtra = '' if bookName == bookFile else f' => {bookName}'
+      print(f'{bookFile:<20}{bookExtra}')
+      thisBookInfo = {'bookName': bookName}
       results = dict(chars=set(), problems=set())
       with open(f'{SOURCE_PATH}/{bookFile}') as bh:
         (curChapter, curVerse, curText) = (None, None, None)
@@ -196,21 +202,21 @@ def doBooks():
             args = comps[1:]
             if keyword == 'bookname':
               acro = ' '.join(args)
-              ab = bookFile[-1] if bookFile[-2] == '_' else ''
-              abRep = '' if ab == '' else f'_{ab.upper()}'
-              thisBookInfo['acro'] = f'{acro}{abRep}'
+              acro = f'{acro[1:]}{acro[0]}' if acro[0].isdigit() else acro
+              bookAbRep = '' if bookAb == '' else f'_{bookAb.upper()}'
+              thisBookInfo['acro'] = f'{acro}{bookAbRep}'
             elif keyword == 'language':
               thisBookInfo['language'] = ' '.join(args)
             elif keyword == 'verse':
               if curVerse:
-                doText(bookFile, curChapter, curVerse, curText, results, content)
+                doText(bookName, curChapter, curVerse, curText, results, content)
               (curChapter, curVerse) = args[0].split(',')
               curText = ''
           elif curVerse:
             curText += line
       thisBookInfo['problems'] = sorted(results['problems'])
       thisBookInfo['chars'] = ''.join(sorted(results['chars']))
-      bookInfo[bookFile] = thisBookInfo
+      bookInfo[bookName] = thisBookInfo
       bookAcro[thisBookInfo['acro']] = thisBookInfo
   return (bookInfo, bookAcro, content)
 

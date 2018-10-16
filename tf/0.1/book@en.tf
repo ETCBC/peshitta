@@ -11,7 +11,7 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-16T05:44:46Z
+@dateWritten=2018-10-16T11:03:27Z
 
 426164	Genesis
 Exodus
@@ -21,11 +21,11 @@ Deuteronomy
 Job
 Joshua
 Judges
-1Samuel
-2Samuel
+Samuel_1
+Samuel_2
 Psalms
-1Kings
-2Kings
+Kings_1
+Kings_2
 Proverbs
 Wisdom_of_Solomon
 Ecclesiastes
@@ -57,17 +57,17 @@ Susanna
 Esther
 Judith
 Sirach
-1Chronicles
-2Chronicles
+Chronicles_1
+Chronicles_2
 Apocalypse_of_Baruch
-4Esdras
+Esdras_4
 Ezra
 Nehemia
-1Maccabees_A
-1Maccabees_B
-2Maccabees
-3Maccabees
-4Maccabees
+Maccabees_1_A
+Maccabees_1_B
+Maccabees_2
+Maccabees_3
+Maccabees_4
 Odes
 Prayer_of_Manasseh_A
 Prayer_of_Manasseh_B
@@ -77,4 +77,4 @@ Apocryphal_Psalms
 Psalms_of_Solomon
 Tobit_A
 Tobit_B
-3Esdras
+Esdras_3
