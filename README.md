@@ -8,7 +8,7 @@
 Peshitta
 ========
 
-[![DOI](https://zenodo.org/badge/153227276.svg)](https://doi.org/10.5281/zenodo.1463676)
+[![DOI](https://zenodo.org/badge/153227276.svg)](https://doi.org/10.5281/zenodo.1463675)
 
 The Peshitta is the Syriac Old Testament.
 See [Wikipedia](https://en.wikipedia.org/wiki/Peshitta).

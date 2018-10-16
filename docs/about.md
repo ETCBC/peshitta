@@ -18,7 +18,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Peshitta).
 
 Text-Fabric features
 --------------------
-We have a [specification](docs/transcription.md) of the transcription format and
+We have a [specification](transcription.md) of the transcription format and
 how we model the text in Text-Fabric.
 
 

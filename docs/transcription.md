@@ -62,7 +62,7 @@ There is not yet a lemma feature for words. The surface representation of words
 is all we got.
 
 feature | values |  description
-------- | ------ | ------ | -----------
+------- | ------ | ------
 **word** | `ܒܪܫܝܬ` | the text of a word as UNICODE string
 **trailer** | `.` | after-word material until the next word, as UNICODE string
 **word etcbc** | `BRCJT` | the text of a word in ETCBC/WIT transliteration
@@ -74,7 +74,7 @@ Node type *verse*
 Subdivision of a containing *chapter*. 
 
 feature | values | description
-------- | ------ | ------ | -----------
+------- | ------ | ------
 **verse** | `1` | number of the *verse*
 
 Node type *chapter*
@@ -83,7 +83,7 @@ Node type *chapter*
 Subdivision of a containing *book*.
 
 feature | values | in ATF | description
-------- | ------ | ------ | -----------
+------- | ------ | ------
 **chapter** | `1` | number of the *chapter*
 
 Node type *book*
@@ -96,7 +96,7 @@ Some books come in several witnesses, marked as `A`, `B`.
 We treat them as separate books, and augment their names and acronyms with `_A`, `_B`, etc.
 
 feature | values | in ATF | description
-------- | ------ | ------ | -----------
+------- | ------ | ------
 **book** | `Gn` | acronym of the book name
 **book@en** | `Genesis` | English name of the book
 
