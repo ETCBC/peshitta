@@ -8,7 +8,7 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-16T11:03:30Z
+@dateWritten=2018-10-17T07:59:54Z
 
 BRCJT
 BR>

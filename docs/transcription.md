@@ -15,7 +15,7 @@ Conversion from ETCBC/WIT to TF
 
 Below is an account how we transform ETCBC/WIT transcriptions into
 [Text-Fabric](https://dans-labs.github.io/text-fabric/) format by means of
-[tfFromPil.py](../programs/tfFromPil.py).
+[tfFromWit.py](../programs/tfFromWit.py).
 
 The Text-Fabric model views the text as a series of atomic units, called
 *slots*. In this corpus *words* are the slots.
@@ -76,15 +76,20 @@ Subdivision of a containing *chapter*.
 feature | values | description
 ------- | ------ | ------
 **verse** | `1` | number of the *verse*
+**chapter** | `1` | see under node type *chapter*
+**book** | `Gn` | see under node type *book*
+**witness** | `A` `B` | see under node type *book*
 
 Node type *chapter*
 -----------------------------
 
 Subdivision of a containing *book*.
 
-feature | values | in ATF | description
+feature | values | description
 ------- | ------ | ------
 **chapter** | `1` | number of the *chapter*
+**book** | `Gn` | see under node type *book*
+**witness** | `A` `B` | see under node type *book*
 
 Node type *book*
 -----------------------------
@@ -95,8 +100,9 @@ of a complete book.
 Some books come in several witnesses, marked as `A`, `B`. 
 We treat them as separate books, and augment their names and acronyms with `_A`, `_B`, etc.
 
-feature | values | in ATF | description
+feature | values | description
 ------- | ------ | ------
-**book** | `Gn` | acronym of the book name
 **book@en** | `Genesis` | English name of the book
+**book** | `Gn` | acronym of the book name
+**witness** | `A` `B` | the witness of the book; only if there are A and B versions of this book
 
