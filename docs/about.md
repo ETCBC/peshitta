@@ -25,6 +25,25 @@ how we model the text in Text-Fabric.
 Provenance
 ----------
 
-The source data in this repo are transcription files in the ETCBC/WIT format. They have been obtained by ...
+The source data in this repo are transcription files in the ETCBC/WIT format.
+
+They have been obtained by the printed edition:
+
+**The Old Testament in Syriac - according to the Peshitta version** by
+*The Peshitta Institute Leiden*, published by E.J. Brill, 1987.
+
+![cover](images/peshittaCover.jpg)
+
+The pages have been OCR-ed by means of [syrocr](https://github.com/ETCBC/syrocr),
+written by Hannes Vlaardingerbroek.
+
+![page](images/peshittaPage.jpg)
+
+The printed edition contains a critical apparatus.
+That is copyrighted by Brill and not included here.
+
+The plain text result of the *syrocr* program has been converted to Text-Fabric by Dirk Roorda.
+
+
 
 
