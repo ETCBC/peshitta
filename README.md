@@ -30,7 +30,7 @@ data set.
 
 See also [about](docs/about.md).
 
-<img src="docs/images/peshittaPageSmall.jpg" align="right" width="100"/>
+![coverSmall](docs/images/peshittaPageSmall.jpg)
 
 Software
 --------
