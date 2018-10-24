@@ -18,6 +18,9 @@ An electronic edition of the Peshitta including its full critical apparatus
 is in preparation at the at the Eep Talstra Centre for Bible and Computer (ETCBC)
 and will be published by Brill.*
 
+Editors
+=======
+
 The general editors of the Peshitta Project are
 [Bas ter Haar Romeny](https://research.vu.nl/en/persons/rb-ter-haar-romeny)
 and
@@ -32,7 +35,8 @@ and
 [Wido van Peursen](https://research.vu.nl/en/persons/wido-van-peursen).
 
 Corpus
-------
+======
+
 The [source](https://github.com/ETCBC/peshitta/tree/master/source)
 directory in this repo contains transcription files in the ETCBC/WIT format.
 
@@ -48,7 +52,7 @@ This will lead to never versions of the data in the *tf*
 directory.
 
 License and citation
---------------------
+=====================
 
 The plain text of the Peshitta, its conversion to Text-Fabric format, and the
 conversion program itself are all in the public domain,
@@ -72,7 +76,8 @@ which ensures that you can use DOIs to point to specific versions.
 These DOIs remain valid indefinitely.
 
 Provenance
-----------
+===========
+
 The Electronic OT Peshitta Text provides an electronic version of the
 [Vetus Testamentum Syriace (VTS)](https://brill.com/view/serial/PES),
 prepared by the Peshitta Institute Amsterdam and published by Brill Publishers.
