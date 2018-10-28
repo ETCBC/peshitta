@@ -8,19 +8,19 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-17T07:59:53Z
+@dateWritten=2018-10-28T08:20:16Z
 
-426185	A
+427249	A
 B
-426214	A
+427278	A
 B
-426220	A
+427284	A
 B
 A
 B
-426226	A
+427290	A
 B
-426949	A
+428013	A
 A
 A
 A
@@ -38,7 +38,8 @@ B
 B
 B
 B
-427359	A
+B
+428424	A
 A
 A
 A
@@ -68,11 +69,11 @@ B
 B
 B
 B
-427440	A
+428505	A
 B
 A
 B
-427466	A
+428531	A
 A
 A
 A
@@ -94,7 +95,8 @@ B
 B
 B
 B
-445738	A
+446824	A
+A
 A
 A
 A
@@ -259,7 +261,8 @@ B
 B
 B
 B
-454386	A
+B
+455501	A
 A
 A
 A
@@ -1118,6 +1121,8 @@ A
 A
 A
 A
+A
+B
 B
 B
 B
@@ -2025,7 +2030,7 @@ B
 B
 B
 B
-457620	A
+458741	A
 A
 A
 A
@@ -2040,6 +2045,7 @@ A
 A
 A
 A
+A
 B
 B
 B
@@ -2055,6 +2061,8 @@ B
 B
 B
 B
+B
+A
 A
 A
 A
@@ -2069,7 +2077,8 @@ B
 B
 B
 B
-458062	A
+B
+459189	A
 A
 A
 A
@@ -2312,6 +2321,8 @@ A
 A
 A
 A
+A
+B
 B
 B
 B

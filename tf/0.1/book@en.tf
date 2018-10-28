@@ -11,9 +11,9 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-17T07:59:51Z
+@dateWritten=2018-10-28T08:20:15Z
 
-426164	Genesis
+427228	Genesis
 Exodus
 Leviticus
 Numbers

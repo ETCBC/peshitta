@@ -8,9 +8,9 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-17T07:59:51Z
+@dateWritten=2018-10-28T08:20:15Z
 
-426164	Gn
+427228	Gn
 Ex
 Lv
 Nm
@@ -813,6 +813,7 @@ EpBar_B
 EpBar_B
 EpBar_B
 EpBar_B
+EpBar_B
 Bar
 Bar
 Bar
@@ -2875,6 +2876,7 @@ Gn
 Gn
 Gn
 Gn
+Gn
 Ex
 Ex
 Ex
@@ -4087,6 +4089,7 @@ Ex
 Ex
 Ex
 Ex
+Ex
 Lv
 Lv
 Lv
@@ -4945,6 +4948,8 @@ Lv
 Lv
 Lv
 Lv
+Lv
+Nm
 Nm
 Nm
 Nm
@@ -7191,6 +7196,7 @@ Dt
 Dt
 Dt
 Dt
+Dt
 Jb
 Jb
 Jb
@@ -8255,6 +8261,8 @@ Jb
 Jb
 Jb
 Jb
+Jb
+Jos
 Jos
 Jos
 Jos
@@ -9526,6 +9534,7 @@ Jd
 Jd
 Jd
 Jd
+Jd
 Sm1
 Sm1
 Sm1
@@ -10334,6 +10343,8 @@ Sm1
 Sm1
 Sm1
 Sm1
+Sm1
+Sm2
 Sm2
 Sm2
 Sm2
@@ -13479,6 +13490,8 @@ Ps
 Ps
 Ps
 Ps
+Ps
+Rg1
 Rg1
 Rg1
 Rg1
@@ -15012,6 +15025,8 @@ Rg2
 Rg2
 Rg2
 Rg2
+Rg2
+Pr
 Pr
 Pr
 Pr
@@ -16360,6 +16375,7 @@ Sap
 Sap
 Sap
 Sap
+Sap
 Ec
 Ec
 Ec
@@ -16581,6 +16597,8 @@ Ec
 Ec
 Ec
 Ec
+Ec
+Ct
 Ct
 Ct
 Ct
@@ -17986,6 +18004,7 @@ Is
 Is
 Is
 Is
+Is
 Jr
 Jr
 Jr
@@ -19354,6 +19373,8 @@ Jr
 Jr
 Jr
 Jr
+Jr
+Thr
 Thr
 Thr
 Thr
@@ -19584,6 +19605,7 @@ EpJr
 EpJr
 EpJr
 EpJr
+EpJr
 EpBar_A
 EpBar_A
 EpBar_A
@@ -19666,6 +19688,8 @@ EpBar_A
 EpBar_A
 EpBar_A
 EpBar_A
+EpBar_A
+EpBar_B
 EpBar_B
 EpBar_B
 EpBar_B
@@ -19890,6 +19914,8 @@ Bar
 Bar
 Bar
 Bar
+Bar
+Ez
 Ez
 Ez
 Ez
@@ -21356,6 +21382,8 @@ Hs
 Hs
 Hs
 Hs
+Hs
+Jl
 Jl
 Jl
 Jl
@@ -21428,6 +21456,7 @@ Jl
 Jl
 Jl
 Jl
+Am
 Am
 Am
 Am
@@ -21593,6 +21622,7 @@ Ob
 Ob
 Ob
 Ob
+Ob
 Jon
 Jon
 Jon
@@ -21640,6 +21670,8 @@ Jon
 Jon
 Jon
 Jon
+Jon
+Mi
 Mi
 Mi
 Mi
@@ -21790,6 +21822,7 @@ Na
 Na
 Na
 Na
+Na
 Hb
 Hb
 Hb
@@ -21845,6 +21878,8 @@ Hb
 Hb
 Hb
 Hb
+Hb
+Zf
 Zf
 Zf
 Zf
@@ -21934,6 +21969,8 @@ Hg
 Hg
 Hg
 Hg
+Hg
+Sa
 Sa
 Sa
 Sa
@@ -22198,6 +22235,8 @@ Ml
 Ml
 Ml
 Ml
+Ml
+Dn
 Dn
 Dn
 Dn
@@ -22650,6 +22689,7 @@ BelDr
 BelDr
 BelDr
 BelDr
+BelDr
 Ru
 Ru
 Ru
@@ -22735,6 +22775,8 @@ Ru
 Ru
 Ru
 Ru
+Ru
+Sus
 Sus
 Sus
 Sus
@@ -22966,6 +23008,8 @@ Est
 Est
 Est
 Est
+Est
+Jdt
 Jdt
 Jdt
 Jdt
@@ -24566,6 +24610,8 @@ Sir
 Sir
 Sir
 Sir
+Sir
+Chr1
 Chr1
 Chr1
 Chr1
@@ -26223,6 +26269,8 @@ Chr2
 Chr2
 Chr2
 Chr2
+Chr2
+ApBar
 ApBar
 ApBar
 ApBar
@@ -27549,6 +27597,8 @@ Esr4
 Esr4
 Esr4
 Esr4
+Esr4
+Ezr
 Ezr
 Ezr
 Ezr
@@ -28232,6 +28282,8 @@ Neh
 Neh
 Neh
 Neh
+Neh
+Mc1_A
 Mc1_A
 Mc1_A
 Mc1_A
@@ -29998,6 +30050,8 @@ Mc1_B
 Mc1_B
 Mc1_B
 Mc1_B
+Mc1_B
+Mc2
 Mc2
 Mc2
 Mc2
@@ -30780,6 +30834,8 @@ Mc3
 Mc3
 Mc3
 Mc3
+Mc3
+Mc4
 Mc4
 Mc4
 Mc4
@@ -31258,6 +31314,7 @@ Mc4
 Mc4
 Mc4
 Mc4
+Oda
 Oda
 Oda
 Oda
@@ -31481,6 +31538,8 @@ OrM_A
 OrM_A
 OrM_A
 OrM_A
+OrM_A
+OrM_B
 OrM_B
 OrM_B
 OrM_B
@@ -31503,6 +31562,7 @@ ApcPs_A
 ApcPs_A
 ApcPs_A
 ApcPs_A
+ApcPs_A
 ApcPs_B
 ApcPs_B
 ApcPs_B
@@ -31510,6 +31570,7 @@ ApcPs_B
 ApcPs_B
 ApcPs_B
 ApcPs_B
+ApcPs_B
 ApcPs
 ApcPs
 ApcPs
@@ -31566,6 +31627,7 @@ ApcPs
 ApcPs
 ApcPs
 ApcPs
+ApcPs
 PsS
 PsS
 PsS
@@ -31908,6 +31970,7 @@ PsS
 PsS
 PsS
 PsS
+PsS
 Tb_A
 Tb_A
 Tb_A
@@ -32151,6 +32214,8 @@ Tb_A
 Tb_A
 Tb_A
 Tb_A
+Tb_A
+Tb_B
 Tb_B
 Tb_B
 Tb_B
@@ -32249,6 +32314,7 @@ Tb_B
 Tb_B
 Tb_B
 Tb_B
+Esr3
 Esr3
 Esr3
 Esr3

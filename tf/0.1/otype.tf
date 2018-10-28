@@ -8,9 +8,9 @@
 @sourceUrl=https://sedra.bethmardutho.org/about/contributors
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2018-10-17T07:59:51Z
+@dateWritten=2018-10-28T08:20:15Z
 
-1-426163	word
-426164-426228	book
-426229-427496	chapter
-427497-458807	verse
+1-427227	word
+427228-427292	book
+427293-428561	chapter
+428562-459937	verse

@@ -216,6 +216,8 @@ def doBooks():
               curText = ''
           elif curVerse:
             curText += line
+        if curVerse:
+          doText(bookName, curChapter, curVerse, curText, results, content)
       thisBookInfo['problems'] = sorted(results['problems'])
       thisBookInfo['chars'] = ''.join(sorted(results['chars']))
       bookInfo[bookName] = thisBookInfo
