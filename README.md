@@ -41,5 +41,7 @@ Status
 ======
 This is **work in progress!**
 
+**Currently, the headings turn up in the text itself. This will be remedied before the next major release.**
+
 *   2018-10-16 Peshitta as a full-blown Text-Fabric [app](https://dans-labs.github.io/text-fabric/Api/Apps/).
     Archived at Zenodo.
