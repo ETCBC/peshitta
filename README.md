@@ -7,7 +7,7 @@
 
 Peshitta
 ========
-[![sha](sha.png) Software Heritage Archive](https://archive.softwareheritage.org/browse/origin/https://github.com/ETCBC/peshitta/)
+[![sha](sha.png) Software Heritage Archive](https://archive.softwareheritage.org/browse/origin/https://github.com/etcbc/peshitta/)
 
 [![DOI](https://zenodo.org/badge/153227276.svg)](https://doi.org/10.5281/zenodo.1463675)
 
