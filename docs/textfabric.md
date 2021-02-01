@@ -4,7 +4,7 @@
 Text-Fabric
 ===========
 
-[Text-Fabric](https://github.com/Dans-labs/text-fabric) is a model for textual
+[Text-Fabric](https://github.com/annotation/text-fabric) is a model for textual
 data with annotations that is optimized for efficient data analysis. Not only
 that, it also facilitates the creation of new, derived data, which can be added
 to the original data. Data combination is a feature of Text-Fabric.
@@ -19,7 +19,7 @@ That's why they adopted a model by
 [Doedens](http://books.google.nl/books?id=9ggOBRz1dO4C) that reflects more of
 the essential properties of text (sequence, embedding). This model is the basis
 of MQL, a working text-database system. Text-Fabric is based on the same
-[model](https://dans-labs.github.io/text-fabric/Model/Data-Model/), and once the
+[model](https://annotation.github.io/text-fabric/tf/about/datamodel.html), and once the
 data is in Text-Fabric, it can be exported to MQL.
 
 See more on the effort of modeling the Hebrew Bible in Dirk's article
@@ -54,7 +54,7 @@ is such a notebook. If you are reading it online, you see text bits and code
 bits, but you cannot execute the code bits.
 
 Chances are that a bit of reading about the underlying
-[data model](https://dans-labs.github.io/text-fabric/Model/Data-Model/) helps you
+[data model](https://annotation.github.io/text-fabric/tf/about/datamodel.html) helps you
 to follow the exercises below, and vice versa.
 
 Start

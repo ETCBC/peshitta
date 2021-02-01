@@ -9,7 +9,7 @@ This repo is a research environment for the study of the (Old Testament)
 
 You can run your own programs off-line, and publish your work in online notebooks.
 To that end, the plain text of the Peshitta has brought into
-[Text-Fabric](https://dans-labs.github.io/text-fabric/Model/File-formats/)
+[Text-Fabric](https://annotation.github.io/text-fabric/tf/about/fileformats.html)
 format, which is a good starting point for textual data processing.
 
 *Researchers who want to do philological or text-historical study on the Peshitta OT

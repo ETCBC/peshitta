@@ -19,7 +19,7 @@ This repo is a research environment for the study of the (Old Testament)
 
 You can run your own programs off-line, and publish your work in online notebooks.
 To that end, the plain text of the Peshitta has brought into
-[Text-Fabric](https://dans-labs.github.io/text-fabric/Model/File-formats/)
+[Text-Fabric](https://annotation.github.io/text-fabric/tf/about/fileformats.html)
 format, which is a good starting point for textual data processing.
 
 For **authors**, **provenance** and **license**: see [About](docs/about.md).
@@ -45,5 +45,5 @@ This is **work in progress!**
 
 **Currently, the headings turn up in the text itself. This will be remedied before the next major release.**
 
-*   2018-10-16 Peshitta as a full-blown Text-Fabric [app](https://dans-labs.github.io/text-fabric/Api/Apps/).
+*   2018-10-16 Peshitta as a full-blown Text-Fabric [app](https://annotation.github.io/text-fabric/tf/about/use.html).
     Archived at Zenodo.
