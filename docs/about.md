@@ -15,8 +15,9 @@ format, which is a good starting point for textual data processing.
 *Researchers who want to do philological or text-historical study on the Peshitta OT
 should consult the critical apparatus in the printed edition (not in this repository).
 An electronic edition of the Peshitta including its full critical apparatus
-is in preparation at the at the Eep Talstra Centre for Bible and Computer (ETCBC)
-and will be published by Brill.*
+has been prepared by the Eep Talstra for Bible and Computer
+([ETCBC](http://www.etcbc.nl/)) and has been published in the
+[Brill Peshitta Online](https://brill.com/view/db/peso).*
 
 Editors
 =======
@@ -54,11 +55,11 @@ directory.
 License and citation
 =====================
 
-The plain text of the Peshitta, its conversion to Text-Fabric format, and the
-conversion program itself are all in the public domain,
-as stated by the [UNLICENSE](http://unlicense.org), which applies to this repository.
+The plain text of the Peshitta, its conversion to Text-Fabric format,
+is subject to the
+[CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
 
-That means that you may use this data as you whish without restrictions.
+That means that you may use this data as you whish if you doi not use it commerically.
 
 However, we would appreciate proper citation when you publish
 results obtained by using this data.
@@ -70,6 +71,10 @@ Wido Th. van Peursen, Geert Jan Veldman, Constantijn Sikkel, Hannes Vlaardingerb
 (2018-10-17).
 ETCBC/peshitta: (Version 0.3). Zenodo. http://doi.org/10.5281/zenodo.1464757
 ```
+
+If you would like to use the textual data commercially, contact the ETCBC or Brill.
+
+The conversion program itself it subject the liberal [MIT license](https://mit-license.org).
 
 **N.B.:** Releases of this repo have been archived at [Zenodo](https://zenodo.org),
 which ensures that you can use DOIs to point to specific versions.

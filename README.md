@@ -43,7 +43,6 @@ Status
 ======
 This is **work in progress!**
 
-**Currently, the headings turn up in the text itself. This will be remedied before the next major release.**
-
+*   2021-03-11 New release based on new and improved data
 *   2018-10-16 Peshitta as a full-blown Text-Fabric [app](https://annotation.github.io/text-fabric/tf/about/use.html).
     Archived at Zenodo.
