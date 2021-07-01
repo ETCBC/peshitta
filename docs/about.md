@@ -1,5 +1,7 @@
-<img src="images/logo.png" align="left"/>
-<img src="images/etcbc.png" align="right"/>
+<img src="images/logo.png" align="left" width="350"/>
+<img src="images/etcbc.png" align="right" width="100"/>
+
+
 
 Peshitta
 ==============================
