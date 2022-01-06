@@ -1,0 +1,22 @@
+apiVersion: 3
+dataDisplay:
+  noneValues:
+  - none
+  - unknown
+  - null
+  - NA
+docs:
+  docPage: transcription
+  featureBase: '{docBase}/transcription-{version}{docExt}#<feature>'
+  featurePage: ''
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: Peshitta (Old Testament)
+  doi: 10.5281/zenodo.1463675
+  version: '0.2'
+  webLang: en
+  webBase: '{urlGh}/{org}/{repo}/blob/master/source'
+  webHint: Show this document in the Peshitta repository
+  webUrl: '{webBase}/{version}/<1>'
+typeDisplay: {}
+writing: syc

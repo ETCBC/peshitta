@@ -65,7 +65,7 @@ The ecosystem is Python and Jupyter notebooks.
 # Getting started
 
 Start with the
-[tutorial](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/peshitta/start.ipynb).
+[tutorial](https://nbviewer.jupyter.org/github/etcbc/peshitta/blob/master/tutorial/start.ipynb).
 
 # Status
 
