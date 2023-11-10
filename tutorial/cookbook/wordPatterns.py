@@ -34,7 +34,7 @@
 
 from tf.app import use
 
-A = use("peshitta", hoist=globals())
+A = use("ETCBC/peshitta", hoist=globals())
 
 # ## string `JBW L` in the text
 
