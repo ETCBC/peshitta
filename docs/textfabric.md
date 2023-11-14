@@ -10,7 +10,7 @@ that, it also facilitates the creation of new, derived data, which can be added
 to the original data. Data combination is a feature of Text-Fabric.
 
 Text-Fabric is being used for the [Hebrew Bible](https://github.com/ETCBC/bhsa)
-and a large body of linguisitic annotations on top of it. The researchers of the
+and a large body of linguistic annotations on top of it. The researchers of the
 [ETCBC](http://etcbc.nl) thought that a plain database is not a satisfactory
 text model, and that XML is too limited too express multiple hierarchies in a
 text smoothly.
@@ -22,7 +22,7 @@ of MQL, a working text-database system. Text-Fabric is based on the same
 [model](https://annotation.github.io/text-fabric/tf/about/datamodel.html), and once the
 data is in Text-Fabric, it can be exported to MQL.
 
-See more on the effort of modeling the Hebrew Bible in Dirk's article
+See more on the effort of modelling the Hebrew Bible in Dirk's article
 [The Hebrew Bible as Data: Laboratory - Sharing - Experiences](https://doi.org/10.5334/bbi.18)
 
 With data in Text-Fabric, it becomes possible to build rich online interfaces on
