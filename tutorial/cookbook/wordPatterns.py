@@ -22,13 +22,13 @@
 #
 # So, go off to a terminal and give the command
 #
-# ```text-fabric peshitta:latest --checkout=latest```
+# ```tf peshitta:latest --checkout=latest```
 #
 # This fetches the latest version of the Peshitta app and data.
 #
 # After that, you can just say
 #
-# ```text-fabric peshitta```
+# ```tf peshitta```
 #
 # until you got word that a new version of app and/or data has become available.
 
